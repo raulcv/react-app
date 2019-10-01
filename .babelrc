@@ -1,0 +1,3 @@
+{
+    "presets": ["env","react" ] //Aqui babel traduce sintaxin moderna de JS - (env) y de (reatc)
+}
